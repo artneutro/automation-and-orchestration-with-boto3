@@ -7,8 +7,6 @@ Student: Jose Lo Huang
 ##################################
 
 This code is designed to manage some AWS services in a simple and easy way.
-It is prepared as the first assignment in the CIT lecture "Cloud Automation
-and Orchestration" 2020.
 
 This is the version 1, which includes the following AWS services:
 
@@ -119,6 +117,8 @@ https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/cloud
 https://boto3.amazonaws.com/v1/documentation/api/latest/guide/cw-examples.html
 https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/rds.html
 https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/sns.html
+
+
 
 
 
